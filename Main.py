@@ -4,10 +4,8 @@ Created on Feb 19, 2023
 @author: bradenhicks
 '''
 
-import imutils
 import cv2
 import numpy as np 
-import math
 
 
 def detectCones(image):
